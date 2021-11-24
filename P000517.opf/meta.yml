@@ -1,5 +1,7 @@
 id: P000517
 initial_creation_type: ocr
+created_at: 24/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W18135
   title: བསྟན་རྩིས་རེའུ་མིག
@@ -10,10 +12,3 @@ source_metadata:
       title: ''
       volume_number: 1
       total_pages: 410
-ebook_metadata:
-  title: བསྟན་རྩིས་རེའུ་མིག
-  author: ''
-  sku: P000517
-  cover: cover.jpg
-  layers:
-  - pagination
